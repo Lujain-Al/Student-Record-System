@@ -28,6 +28,7 @@ A simple program in C that allows adding and displaying student records using fi
 
 bash
 gcc student_records.c -o student_records
+
 ./student_records 
 
 ---
