@@ -34,12 +34,12 @@ A simple program in C that allows adding and displaying student records using fi
 - A C compiler such as GCC or Online Compiler
 - No external libraries required
 
-- 
+  
 ---
 
 ## 🚀 طريقة التشغيل | How to Run
 
-### باستخدام GCC:
+### باستخدام GCC Using | GCC :
 
 bash
 gcc student_records.c -o student_records
