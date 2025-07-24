@@ -34,8 +34,8 @@ gcc student_records.c -o student_records
 ---
 
 ### 📝 Using an Online Compiler:
-انسخ الكود من student_records.c
+1- انسخ الكود من student_records.c
 
-الصقه في محرر C أونلاين (مثل replit.com أو onlinegdb.com)
+2- الصقه في محرر C أونلاين (مثل replit.com أو onlinegdb.com) 
 
-شغّل البرنامج وتفاعل مع القائمة
+3- شغّل البرنامج وتفاعل مع القائمة
