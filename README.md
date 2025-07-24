@@ -49,8 +49,14 @@ gcc student_records.c -o student_records
 ---
 
 ### 📝 Using an Online Compiler:
-1- انسخ الكود من student_records.c
+1- انسخ الكود من  add_student.c
 
 2- الصقه في محرر C أونلاين (مثل replit.com أو onlinegdb.com) 
 
 3- شغّل البرنامج وتفاعل مع القائمة
+
+1- Copy the code from add_student.c
+
+2- Paste it into an online C++ editor (such as replit.com or onlinegdb.com)
+
+3- Run the program and interact with the menu
