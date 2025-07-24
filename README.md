@@ -13,6 +13,15 @@ A simple program in C that allows adding and displaying student records using fi
 - 💾 استخدام ملفات bin لتخزين البيانات
 - مناسب للتجربة على أي مترجم C
 
+
+## ✅Features | Attributes
+
+- 📥 Add a student (ID, name, grade)
+- 📋 View all stored records
+- 💾 Use bin files to store data
+- Suitable for testing on any C compiler
+
+  
 ---
 
 ## 🧰 المتطلبات | Requirements
