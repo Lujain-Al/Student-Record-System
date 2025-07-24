@@ -6,7 +6,7 @@ A simple program in C that allows adding and displaying student records using fi
 
 ---
 
-## ✅ الميزات | Features
+## ✅ الميزات 
 
 - 📥 إضافة طالب (ID، اسم، درجة)
 - 📋 عرض جميع السجلات المخزنة
@@ -24,11 +24,17 @@ A simple program in C that allows adding and displaying student records using fi
   
 ---
 
-## 🧰 المتطلبات | Requirements
+## 🧰 المتطلبات 
 
 - مترجم C مثل GCC أو Online Compiler  
 - لا حاجة لأي مكتبة خارجية
 
+## 🧰 Requirements
+
+- A C compiler such as GCC or Online Compiler
+- No external libraries required
+
+- 
 ---
 
 ## 🚀 طريقة التشغيل | How to Run
